@@ -1,6 +1,6 @@
 This is a User Registration System built using Spring Boot, Java, MySQL, HTML, and CSS. The system allows users to register, login, and manage their accounts securely. It follows MVC architecture and uses Spring Security for authentication and authorization.
 
-⚙️ Technologies Used
+## Technologies Used
 
 Backend: Java, Spring Boot, Spring MVC, Spring Security
 
@@ -12,15 +12,16 @@ Build Tool: Maven
 
 ORM: Hibernate JPA
 
-🚀 Features
+## Features
 
-✅ User Registration with form validation
-✅ Secure Password Encryption using BCrypt
-✅ User Login and Authentication
-✅ Role-Based Access Control (Admin/User)
-✅ Session Management✅ Profile Management
+- User Registration with form validation
+- Secure Password Encryption using BCrypt
+- User Login and Authentication
+- Role-Based Access Control (Admin/User)
+- Session Management
+- Profile Management
 
-🛠️ Setup and Installation
+## Setup and Installation
 
 1. Clone the Repository
 
@@ -49,7 +50,7 @@ Or, Run the JAR file:
 
 java -jar target/user-registration-0.0.1-SNAPSHOT.jar
 
-🖥️ Usage
+## Usage
 
 Open http://localhost:8080/register in your browser.
 
@@ -59,14 +60,14 @@ Login using your credentials at http://localhost:8080/login.
 
 Access the dashboard and manage your profile.
 
-🛡️ Security Implementations
+## Security Implementations
 
 BCrypt Password Encoding for secure password storage.
 
 Spring Security for authentication & authorization.
 
 
-🤝 Contributing
+## Contributing
 
 Fork the repository.
 
